@@ -1,5 +1,4 @@
 var React = require('react');
-
 module.exports = React.createClass({
   render:function(){
     return <div className="second_menu_grid mdl-grid">

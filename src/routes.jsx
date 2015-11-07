@@ -3,7 +3,6 @@ var ReactRouter = require('react-router');
 var HashHistory = require('react-router/lib/hashhistory');
 var Router = ReactRouter.Router;
 var Route = ReactRouter.Route;
-
 var Layout = require('./layout');
 var SecondMenu = require('./second_menu');
 var CommunityView = require('./community_view');
